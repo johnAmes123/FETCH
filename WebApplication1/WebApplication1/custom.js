@@ -17,6 +17,8 @@ fetch(path).then(function (response) {
 
     console.log(Object.values(data));
 
+    console.log(data.FirstName);
+
 
 });
 
