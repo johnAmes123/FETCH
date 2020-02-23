@@ -1,11 +1,23 @@
 ﻿const path = 'data.json';
 
-fetch(path).then(function (response) {
+var myRequest = new Request(path, myInit);
+
+var myInit = {
+    method: 'GET',
+    headers: {
+        'Content-Type':'JSON'
+    }
+}
+
+fetch(myRequest).then(function (response) {
     return response.json();
 
 }).then(function (data) {
 
     console.log(data);
-    // Fetch
+
+}).catch(function () {
+    console.log("error!!");
+    // Test 
 });
 
