@@ -7,18 +7,5 @@ fetch(path).then(function (response) {
 
     console.log(data);
 
-    console.log(data.FirstName);
-
-    console.log(data.LastName);
-
-    document.getElementById("testData").innerHTML = data.FirstName;
-
-    console.log(Object.keys(data));
-
-    console.log(Object.values(data));
-
-    console.log(data.FirstName);
-
-
 });
 
