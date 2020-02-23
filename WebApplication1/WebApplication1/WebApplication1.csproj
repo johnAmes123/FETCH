@@ -76,7 +76,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="data.json" />
+    <Content Include="chart.json" />
     <None Include="packages.config" />
+    <Content Include="users.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -1,0 +1,14 @@
+{
+  "labels": [ "January", "February", "March", "April" ],
+  "color": [ "red", "green", "blue" ],
+  "dataSet1": {
+    "label": "First Graph",
+    "data": [ 10, 3, 20, 400 ]
+
+  },
+  "dataSet2": {
+    "label": "Second Graph",
+    "data": [ 400, 3, 20, 10 ]
+
+  }
+}

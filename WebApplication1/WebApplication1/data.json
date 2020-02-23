@@ -1,13 +1,5 @@
 {
-  "item1": {
     "FirstName": "Harry",
     "LastName": "Potter",
     "Age": 30
-  },
-  "item2": {
-    "FirstName": "Harry",
-    "LastName": "Potter",
-    "Age": 30
-  }
-
 }

@@ -1,0 +1,20 @@
+{
+  "User1": {
+    "FirstName": "Harry",
+    "LastName": "Potter",
+    "Age": 30,
+    "Hobbies": ["Movies","Jogging","Quidditch"]
+  },
+  "User2": {
+    "FirstName": "Harry",
+    "LastName": "Potter",
+    "Age": 30,
+    "Hobbies": [ "Movies", "Jogging", "Quidditch" ]
+  },
+  "User3": {
+    "FirstName": "Harry",
+    "LastName": "Potter",
+    "Age": 30,
+    "Hobbies": [ "Movies", "Jogging", "Quidditch" ]
+  }
+}
