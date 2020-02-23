@@ -6,6 +6,6 @@ fetch(path).then(function (response) {
 }).then(function (data) {
 
     console.log(data);
-
+    // Fetch
 });
 
